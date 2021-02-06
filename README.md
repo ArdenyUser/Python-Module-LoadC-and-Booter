@@ -10,3 +10,6 @@ Go to the github.io folder and open index.html, download it, and view it in your
 
 # Download Help (Windows 10)
 Get http://cygwin.com/ and you should be good with Python and Shell both installed, and maybe even Batch.
+
+# Running Help
+If there is a error, try renaming (only if you got the basic gui version) rename the Basic (with GUI) folder to Basic, that should fix it! Any other problems, please report them at our Issues or to averywstafford@gmail.com.
