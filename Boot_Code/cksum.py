@@ -1,2 +1,2 @@
 import cksum_support
-Cksum
+cksum_support.Cksum()
