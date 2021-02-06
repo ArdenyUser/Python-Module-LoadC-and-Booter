@@ -1,6 +1,6 @@
 # Run to run program!
 
-def Cksum:
+def Cksum_S:
   print("Cksum processing...")
   print("COMPLETED")
 class Main_Booter:
