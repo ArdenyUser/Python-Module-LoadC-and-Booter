@@ -1,0 +1,1 @@
+Please edit the pytho file "game_boot" and that will be your game, it is not in binary so you can edit it!
