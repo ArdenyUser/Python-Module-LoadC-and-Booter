@@ -1,5 +1,5 @@
 import PySimpleGUI as sg
-layout = [[sg.Text("Complete LoadX boot?")], [sg.Button("OK")]]
+layout = [[sg.Text("BootHandle: Complete boot?")], [sg.Button("OK")]]
 # Create the window
 window = sg.Window("LoadX Boot", layout)
 # Create an event loop
