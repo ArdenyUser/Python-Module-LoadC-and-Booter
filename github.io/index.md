@@ -5,7 +5,7 @@ LoadX contains commands and is being updated, so here are a few (or all) of the 
 
 
 
-lx.File_add_data(file, data)
+## lx.File_add_data(file, data)
 
 ## How to use the above command:
 
@@ -18,7 +18,7 @@ The command will add text to the file you wrote to edit! But, you sould, in the 
 
 
 
-lx.Output_log(log)
+## lx.Output_log(log)
 
 ## How to use the above command:
 
@@ -31,7 +31,7 @@ The command will add text to the output file (possibally called output_log.txt) 
 
 
 
-lx.Reload_full()
+## lx.Reload_full()
 
 ## What will the above command do?
 
@@ -40,7 +40,7 @@ The command will reload the system fully and execute the custom booter.
 
 
 
-lx.Reload_direct()
+## lx.Reload_direct()
 
 ## What will the above command do?
 
