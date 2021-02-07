@@ -20,5 +20,9 @@ def LoadX_info():
   print("LoadX Booter/Python-Module-LoadX-and-Booter Copyright 2021 by Avery Stafford, this is free software!")
   print("!License Included!")
   print("And, Tinker (or is it Tkinker) is not mine, nor PySimpleGui.")
+def File_replace_data(file, data):  
+  file = open(file, "w")
+  file.write('\n' + data);
+  file.close()
   
 
