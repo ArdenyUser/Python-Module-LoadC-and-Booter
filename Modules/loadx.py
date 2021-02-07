@@ -24,7 +24,7 @@ def File_replace_data(file, data):
   file = open(file, "w")
   file.write('\n' + data);
   file.close()
-def embedded_boot():
+def Embedded_boot():
   class Main_Booter:
   print("Booting with LoadD")
   import PySimpleGUI as sg
