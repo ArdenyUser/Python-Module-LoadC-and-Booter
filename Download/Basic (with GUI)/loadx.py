@@ -12,7 +12,7 @@ def Output_log(log):
 def Reload_direct():
   import game_boot
 def Reload_full():
-  import main_boot
+  import boot_main
 def LoadX_info():
   print("LoadX Copyright 2021 by Avery Stafford, this is free software! GNU Free Software License")
   print("!License Included!")
