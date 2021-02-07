@@ -24,4 +24,15 @@ def File_replace_data(file, data):
   file = open(file, "w")
   file.write('\n' + data);
   file.close()
-  
+def Embedded_boot():
+  class Main_Booter:
+  print("Booting with LoadD")
+  import PySimpleGUI as sg
+   layout = [[sg.Text("BootHandle: Complete Boot?")], [sg.Button("OK")]]
+  window = sg.Window("LoadX Boot", layout)
+  while True:
+      event, values = window.read()
+      if event == "OK" or event == sg.WIN_CLOSED:
+          import loadx         
+          break
+  window.close()
