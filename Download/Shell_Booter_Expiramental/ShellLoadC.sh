@@ -1,10 +1,10 @@
 LoadX_info()
 {
  ...
- echo "LoadX Copyright 2021 by Avery Stafford, this is free software! GNU Free Software License"
+ echo "LoadC Copyright 2021 by Avery Stafford, this is free software! GNU Free Software License"
  echo "!License Included!"
  echo "This is a module, or addon, if you are using the Full version, aka using the booter with this, it is all copyrighted: "
- echo "LoadX Booter/Python-Module-LoadX-and-Booter/Shell-Module-LoadX-and-Booter Copyright 2021 by Avery Stafford, this is free software!"
+ echo "LoadC Booter/Python-Module-LoadX-and-Booter/Shell-Module-LoadX-and-Booter Copyright 2021 by Avery Stafford, this is free software!"
  echo "!License Included!"
  echo "And, Tinker (or is it Tkinker) is not mine, nor PySimpleGui."
  ...
